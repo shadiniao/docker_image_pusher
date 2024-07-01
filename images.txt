@@ -3,5 +3,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
 tdengine/tdengine:3.0.4.0
 docker.io/bitnami/kafka:3.6
